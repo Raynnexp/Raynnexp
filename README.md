@@ -2,12 +2,12 @@
 
 ### 👨‍💻 Analytics Engineering Professional
 **Transforming raw data into high-reliability intelligence.** I specialize in architecting end-to-end data pipelines and centralizing fragmented sources into robust reporting frameworks, bridging the gap between complex business rules and scalable technical requirements.
-
+Currently working on **ESG Scoring** and **Anomaly Detection** models.
 ---
 
 ### 🛠 Tech Stack & Tools
 - **Data Logic:** SQL (Analytics Engineering)
-- **Orchestration & Cloud:** Airflow, BigQuery
+- **Platforms & Cloud:** Airflow, BigQuery, Databricks, Google Cloud Platform (GCP)
 - **Visualization:** Tableau, Looker, Power BI
 - **Strategy:** Data Modeling, Workflow Automation, KPI Architecture
 
