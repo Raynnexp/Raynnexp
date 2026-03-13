@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Raynne! 👋
 
-<!--
-**Raynnexp/Raynnexp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Analytics Engineering Professional
+**Transforming raw data into high-reliability intelligence.** I specialize in architecting end-to-end data pipelines and centralizing fragmented sources into robust reporting frameworks, bridging the gap between complex business rules and scalable technical requirements.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Data Logic:** SQL (Analytics Engineering)
+- **Orchestration & Cloud:** Airflow, BigQuery
+- **Visualization:** Tableau, Looker, Power BI
+- **Strategy:** Data Modeling, Workflow Automation, KPI Architecture
+
+---
+
+### 🎯 Professional Impact
+* **Efficiency:** Improving operational workflows through automation.
+* **Accuracy:** Delivering high-reliability intelligence for senior leadership.
+* **Growth:** Supporting sustainable business decisions through data integrity.
+
+---
+
+### 📫 Let's Connect:
+[LinkedIn](www.linkedin.com/in/raynnexavier) | [Email](xraynne@gmail.com)
