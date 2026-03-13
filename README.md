@@ -21,4 +21,4 @@
 ---
 
 ### 📫 Let's Connect:
-[LinkedIn](www.linkedin.com/in/raynnexavier) | [Email](xraynne@gmail.com)
+[www.linkedin.com/in/raynnexavier] | [xraynne@gmail.com]
